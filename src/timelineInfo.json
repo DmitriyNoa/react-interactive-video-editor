@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "timestampStart": 4.177012,
+    "timestampEnd": 6.611423,
+    "positions": {
+      "top": "150px",
+      "left": "350px",
+      "width": "229px",
+      "height": "210px"
+    },
+    "title": "White sweater 1",
+    "skus": ["sdfsdfsdf", "sdfsdfsdf", "sdfsdfsdf", "sdfsdfsdf", "sdfsdfsdf"]
+  },
+  {
+    "id": 2,
+    "timestampStart": 7.136013,
+    "timestampEnd": 7.980779,
+    "positions": {
+      "top": "198px",
+      "left": "257px",
+      "width": "130px",
+      "height": "153px"
+    },
+    "title": "White sweater 2",
+    "skus": ["sdfsdfsdf", "sdfsdfsdf", "sdfsdfsdf", "sdfsdfsdf", "sdfsdfsdf"]
+  },
+  {
+    "id": 3,
+    "timestampStart": 8.131147,
+    "timestampEnd": 10.719492,
+    "positions": {
+      "top": "131px",
+      "left": "424px",
+      "width": "379px",
+      "height": "210px"
+    },
+    "title": "White sweater 2",
+    "skus": ["sdfsdfsdf", "sdfsdfsdf", "sdfsdfsdf", "sdfsdfsdf", "sdfsdfsdf"]
+  },
+  {
+    "id": 4,
+    "timestampStart": 11.023793,
+    "timestampEnd": 12.39315,
+    "positions": {
+      "top": "0",
+      "left": "0",
+      "width": "800px",
+      "height": "450px"
+    },
+    "title": "Red something",
+    "skus": ["sdfsdfsdf", "sdfsdfsdf", "sdfsdfsdf", "sdfsdfsdf", "sdfsdfsdf"]
+  }
+]
